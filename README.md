@@ -22,6 +22,7 @@ python3 data_pickler.py --img_size 320 --dataset "/Users/skanda/Downloads/Comple
 
 ## Training and Customizing the TOMicroCNN Architecture
 [put the pipeline diagram where you see the entire thing]
+- with or without kfold
 
 ## Training a Transfer Learning Architecture
 [give them the options]
