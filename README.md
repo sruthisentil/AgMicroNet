@@ -21,11 +21,17 @@ python3 data_pickler.py --img_size 320 --dataset "/Users/skanda/Downloads/Comple
 ```
 
 ## Training and Customizing the TOMicroCNN Architecture
+[put the pipeline diagram where you see the entire thing]
 
 ## Training a Transfer Learning Architecture
+[give them the options]
+[also include xgboost]
 
 ## Producing Validation Metrics
+[kfold graphs, scores themselves, confusion matrices]
 
+[how to run inference on a trained model]
+- show the example of manoj's validation
 
 ## Reference
 
