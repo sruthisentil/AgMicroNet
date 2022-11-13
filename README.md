@@ -1,4 +1,4 @@
-# TOMicro_Classification
+# TOMicro-Classification
 Talk about what TOMicro
 [
 input the image of example microimages
