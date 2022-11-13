@@ -26,7 +26,9 @@ python3 data_pickler.py --img_size 320 --dataset "/Users/skanda/Downloads/Comple
 
 ## Training a Transfer Learning Architecture
 [give them the options]
-[also include xgboost]
+```
+python3 transfer_learning_template.py --img_size 320 --num_classes 5 --type_of_crop tomato --external_model 'Xception' --trainable_layers "fine_tune"
+```
 
 ## Producing Validation Metrics
 [kfold graphs, scores themselves, confusion matrices]
