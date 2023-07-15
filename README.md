@@ -1,4 +1,4 @@
-# TOMicro-Classification
+# AgMicroNet: Plant Pathologist-Backed Diagnoses
 Talk about what TOMicro
 [
 input the image of example microimages
