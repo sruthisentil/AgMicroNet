@@ -1,4 +1,4 @@
-# AgMicroNet: Plant Pathologist-Backed Diagnoses
+# TOMMicroNet: Plant Pathologist-Backed Diagnoses of Tomato Disease
 Talk about what TOMicro
 [
 input the image of example microimages
