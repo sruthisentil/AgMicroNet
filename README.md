@@ -19,8 +19,9 @@ talk about pickling the data
 ```
 python3 data_pickler.py --img_size 320 --dataset "/Users/skanda/Downloads/CompleteDataset/Fruit" --type_of_crop "tomato"
 ```
-
+produces 2 pickles and the csv
 ## Training and Customizing the TOMicroCNN Architecture
+
 [put the pipeline diagram where you see the entire thing]
 - with or without kfold
 
